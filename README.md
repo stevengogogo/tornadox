@@ -12,7 +12,10 @@ Or get the most recent version from source:
 ```
 pip install git+https://github.com/pnkraemer/tornadox.git
 ```
-
+for this branch:
+```
+pip install git+https://github.com/stevengogogo/tornadox
+```
 
 ## Usage
 Use `tornadox` as follows.
